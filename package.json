@@ -1,7 +1,7 @@
 {
-    "name": "xxx",
+    "name": "weex-running-app",
     "version": "1.0.0",
-    "description": "a weex project",
+    "description": "weex-running-app",
     "main": "index.js",
     "scripts": {
         "build": "webpack",
