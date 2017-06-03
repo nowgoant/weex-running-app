@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Weexplugin/Weexplugin/Source/WeexPlugin/WeexPluginManager.m \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Target\ Support\ Files/Weexplugin/Weexplugin-prefix.pch \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Weexplugin/Weexplugin/Source/WeexPlugin/WeexPluginManager.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Weexplugin/Weexplugin/Source/WeexPlugin/WeexPluginLoader.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WeexSDK.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXValidateProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKInstance.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXComponent.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXLayoutDefine.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/Layout.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXType.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXJSExceptionInfo.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXUtility.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXDefine.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXLog.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXURLRewriteProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXResourceRequest.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXScrollerProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXScrollerComponent.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKManager.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXBridgeManager.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKError.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXSDKEngine.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXRootViewController.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXResourceResponse.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXResourceRequestHandler.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXNetworkProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXModuleProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXNavigationProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXMonitor.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXModalUIModule.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXListComponent.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXJSExceptionProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXImgLoaderProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXEventModuleProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXDebugTool.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXConvert.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXComponentManager.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXBridgeProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXBaseViewController.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXAppMonitorProtocol.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXAppConfiguration.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/WXAComponent.h \
+  /Users/mj/alibaba/weex-running-app/platforms/ios/Pods/Headers/Public/WeexSDK/WeexSDK/NSObject+WXSwizzle.h
